@@ -1,3 +1,5 @@
+# inspired by psec_null
+# long live delete humanity
 import requests
 import sys
 from colorama import Fore, init
